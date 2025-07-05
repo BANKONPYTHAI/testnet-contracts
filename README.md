@@ -1,5 +1,5 @@
 # testnet-contracts
 protocol contracts for the qubic testnet. use at own risk
 
-https://pq-crystals.org/dilithium/
-https://github.com/Trust-Machines/stacks-pyth-bridge
+<a href="https://pq-crystals.org/dilithium/">dilithium</a><br />
+<a href="https://github.com/Trust-Machines/stacks-pyth-bridge">stacks-pyth-bridge</a>
